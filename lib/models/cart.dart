@@ -14,33 +14,33 @@ class Cart extends ChangeNotifier {
     Shoe(
       name: 'Nike Air Max 270',
       price: '180',
-      imagePath: 'assets/images/image1.png',
+      imagePath: 'assets/images/image2.png',
       description:
           "Sporty shoe with a large Air unit for extra cushioning and style",
     ),
     Shoe(
       name: 'Nike Dunk Low',
       price: '283',
-      imagePath: 'assets/images/image1.png',
+      imagePath: 'assets/images/image3.png',
       description: "Retro design with bold colors, perfect for everyday wear",
     ),
     Shoe(
       name: 'Nike Pegasus 41',
       price: '168',
-      imagePath: 'assets/images/image1.png',
+      imagePath: 'assets/images/image4.png',
       description:
           "Lightweight running shoe with great support and breathability",
     ),
     Shoe(
       name: 'Nike Zoom Freak 5',
       price: '189',
-      imagePath: 'assets/images/image1.png',
+      imagePath: 'assets/images/image5.png',
       description: "Basketball shoe made for speed, power, and quick cuts",
     ),
     Shoe(
       name: "Nike Blazer Mid '77",
       price: '299',
-      imagePath: 'assets/images/image1.png',
+      imagePath: 'assets/images/image6.png',
       description:
           "Vintage-inspired sneaker with a high-top design and durable feel",
     ),
