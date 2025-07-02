@@ -9,7 +9,7 @@ class MyBottomNavBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: EdgeInsets.symmetric(vertical: 20),
+      margin: EdgeInsets.symmetric(vertical: 25),
       child: GNav(
         color: Colors.grey.shade400,
         activeColor: Colors.grey.shade700,
