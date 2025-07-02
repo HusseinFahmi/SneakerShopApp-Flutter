@@ -27,7 +27,7 @@ class _CartItemState extends State<CartItem> {
         title: Text(widget.shoe.name),
         subtitle: Text('\$' + widget.shoe.price),
         trailing: IconButton(
-          icon: Icon(Icons.delete),
+          icon: Icon(Icons.delete, color: Colors.grey.shade500,),
           onPressed: widget.onPressed,
         ),
       ),
